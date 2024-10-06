@@ -1,0 +1,21 @@
+{
+    "id": "ani-com",
+    "name": "模仿csgo抽奖动画",
+    "displayName": "模仿csgo抽奖动画",
+    "version": "1.0.0",
+    "description": "模仿csgo抽奖动画",
+    "keywords": [
+        "动画",
+        "csgo",
+        "抽奖"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    },
+    "dependencies": {
+        "xlsx": "^0.18.5"
+    }
+}
